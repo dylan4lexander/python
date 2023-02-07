@@ -1,0 +1,5 @@
+print('Ingrese la base del triangulo en centimetros')
+base = int(input())
+print('Ingrese el altura del triangulo en centimetros')
+altura = int(input())
+print(f'El area de triangulo es de ',(base * altura/2), ' centimetros')
